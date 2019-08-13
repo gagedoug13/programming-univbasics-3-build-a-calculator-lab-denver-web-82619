@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  equation = '#{num1} + #{num2}'
+  equation = "#{num1} + #{num2}"
   return equation
 end
 
