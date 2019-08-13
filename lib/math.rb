@@ -24,5 +24,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  equation = num1^
+  equation = num^
+  return equation
 end
